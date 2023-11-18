@@ -22,6 +22,8 @@ PE03:
 The "To-Do App" is a mobile application developed using React Native. Users can add, edit, mark as completed, or delete tasks. The app features a dynamic filtering system with "ALL," "ACTIVE," and "COMPLETED" options, allowing users to view tasks based on their status. The UI displays tasks in a user-friendly list format, where completed tasks are strikethrough and in gray. Users can add new tasks and edit existing ones. The bottom bar offers easy navigation between different task views. The app prioritizes user experience and task management with an intuitive interface.
 
 PE05:
+
+
 Allows users to add a new country with its associated currency.
 Provides a form for users to input the country name and currency.
 Displays a list of saved countries and their currencies.
