@@ -29,3 +29,8 @@ Provides a form for users to input the country name and currency.
 Displays a list of saved countries and their currencies.
 Each list item is tappable for more detailed information.
 Shows a message when no countries are saved.
+
+PE05:
+
+Allows users to add a new country with its associated currency. Provides a form for users to input the country name and currency. Displays a list of saved countries and their currencies. Each list item is tappable for more detailed information. Shows a message when no countries are saved. Added stack-based navigators to the “CountriesNav” tab.
+
